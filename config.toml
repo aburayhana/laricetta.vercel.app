@@ -1,4 +1,4 @@
-baseURL = "https://laricetta.netlify.app"
+baseURL = "https://laricetta.vercel.app"
 languageCode = "en-us"
 title = "Ricetta"
 theme = "z"
@@ -41,7 +41,7 @@ theme = "z"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://laricetta.netlify.app"
+    homepage = "https://laricetta.vercel.app"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
